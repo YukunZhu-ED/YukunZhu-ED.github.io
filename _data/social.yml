@@ -1,0 +1,24 @@
+author:
+  - key: location
+    title: "Location"
+    icon: "map-marker-alt"
+
+  - key: email
+    title: "Email"
+    icon: "envelope"
+
+  - key: orcid
+    title: "ORCID"
+    icon: "orcid"
+
+  - key: googlescholar
+    title: "Google Scholar"
+    icon: "google"
+
+  - key: researchgate
+    title: "ResearchGate"
+    icon: "researchgate"
+
+  - key: github
+    title: "GitHub"
+    icon: "github"
