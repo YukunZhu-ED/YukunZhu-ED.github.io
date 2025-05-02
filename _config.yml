@@ -9,15 +9,15 @@
 title                    : "Yukun Zhu"
 description: |
   <p class="site-desc">
-    MScR student at the University of Edinburgh’s Institute for Imaging, Data and Communications.
+    MScR student at the University of Edinburgh. Researching in the Institute for Imaging, Data and Communications.
   </p>
 
   <p class="site-desc"><strong>Research interests:</strong></p>
   <ul class="site-desc-list">
-    <li>Data‑driven TDLAS imaging</li>
-    <li>Micro‑/nanoscale radiative heat transfer</li>
+    <li>TDLAS measurement</li>
+    <li>Microcale radiative heat transfer</li>
     <li>Combustion optimization</li>
-  </ul>repository               : "/Users/edzyk/Documents/GitHub/YukunZhu-ED.github.io"
+repository   :: "/Users/edzyk/Documents/GitHub/YukunZhu-ED.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -38,6 +38,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=h5K5LXEAAAAJ"
   email            : "zyk7915@163.com"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-9891-730X"
   researchgate     : "https://www.researchgate.net/profile/Yukun-Zhu-6?ev=hdr_xprf"
   uri              :
   bitbucket        :
@@ -54,7 +55,6 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-9891-730X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
