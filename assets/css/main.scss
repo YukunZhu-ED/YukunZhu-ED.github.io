@@ -107,3 +107,21 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 1. 减小 .site-desc-list 的整体缩进 */
+.site-desc-list {
+    margin-left: 1em;   // 根据需要调整：0.5em ~ 1.5em
+    padding-left: 0;    // 去掉默认内边距
+  
+    /* 2. 可选：进一步微调 li 的缩进 */
+    li {
+      margin-left: 0.5em;  // 让子弹符号和文字保持合理间距
+    }
+  }
+  
+  /* 3. 两端对齐 段落（.site-desc）和 列表项 */
+  .site-desc,
+  .site-desc-list li {
+    text-align: justify;
+    text-justify: inter-word; // Firefox 下更好地做词间两端对齐
+  }
