@@ -110,7 +110,7 @@ h1:before, .anchor:before {
 
 /* 1. 减小 .site-desc-list 的整体缩进 */
 .site-desc-list {
-    margin-left: 0.5em;   // 根据需要调整：0.5em ~ 1.5em
+    margin-left: 0em;   // 根据需要调整：0.5em ~ 1.5em
     padding-left: 0;    // 去掉默认内边距
   
     /* 2. 可选：进一步微调 li 的缩进 */
