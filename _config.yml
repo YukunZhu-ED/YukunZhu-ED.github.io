@@ -7,8 +7,17 @@
 
 # Site Settings
 title                    : "Yukun Zhu"
-description              : "MScR student at the University of Edinburgh’s Institute for Imaging, Data and Communications. Research interests: data‑driven TDLAS imaging, micro‑/nanoscale radiative heat transfer, and combustion optimization."
-repository               : "/Users/edzyk/Documents/GitHub/YukunZhu-ED.github.io"
+description: |
+  <p class="site-desc">
+    MScR student at the University of Edinburgh’s Institute for Imaging, Data and Communications.
+  </p>
+
+  <p class="site-desc"><strong>Research interests:</strong></p>
+  <ul class="site-desc-list">
+    <li>Data‑driven TDLAS imaging</li>
+    <li>Micro‑/nanoscale radiative heat transfer</li>
+    <li>Combustion optimization</li>
+  </ul>repository               : "/Users/edzyk/Documents/GitHub/YukunZhu-ED.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
