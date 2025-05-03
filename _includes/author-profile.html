@@ -69,7 +69,7 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.lab_name and author.lab_url %}
-      <li>
+      <li class="author-lab" style="flex-basis:100%; display:block;">
         <i class="fa fa-fw fa-flask" aria-hidden="true"></i>
         <a href="{{ author.lab_url }}" target="_blank" rel="noopener">
           {{ author.lab_name }}
