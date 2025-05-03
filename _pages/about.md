@@ -34,7 +34,7 @@ redirect_from:
   <a href="https://power.seu.edu.cn/rsj/listm.htm" target="_blank" rel="noopener">Dr. Shaojun Ren</a>,
   <a href="http://school.freekaoyan.com/hb/jhun/2021/08-15/16290354621509372.shtml" target="_blank" rel="noopener">Prof. Xiaoli Hu</a>,
   and
-  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>, et al. In collaboration with these scholars,my work has spanned multiple areas, including Optimized computational methods for quantum detuning, Real‑time dynamic data coordination of full‑condition power units via spatiotemporal redundancy techniques, Data‑driven modeling of industrial processes fault diagnosis, Microstructure–interface heat‑transfer analysis, Human posture detection and action‑recognition algorithms, and Robot simulation control and motion‑planning strategies.
+  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>, et al. In collaboration with these scholars,my work has spanned multiple areas, including Optimized computational methods for quantum detuning, Real‑time dynamic data coordination of full‑condition power units via spatiotemporal redundancy techniques, Data‑driven modeling of industrial processes fault diagnosis, Microstructure–interface heat‑transfer analysis, Human posture detection and action‑recognition algorithms, Empirical asset pricing and Robot simulation control and motion‑planning strategies.
 </p>
 
 
