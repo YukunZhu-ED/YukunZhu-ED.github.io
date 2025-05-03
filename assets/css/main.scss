@@ -182,7 +182,7 @@ h1:before, .anchor:before {
     cursor: default;
     display: inline-flex;
     align-items: center;
-    height: 20px;        /* 总高度从 24px 调到 20px */
+    height: 16px;        /* 总高度从 24px 调到 20px */
     line-height: 18px;   /* 内部文本行高 */
     font-size: 0.75rem;  /* 整体字体再小一点 */
     border-radius: 2px;  /* 圆角也相应小一点 */
