@@ -147,19 +147,8 @@ h1:before, .anchor:before {
     hyphens: auto;              /* 自动断字（中英文皆可更优） */
   }
 
-//   .author__urls.social-icons li.author-lab {
-//     display: flex !important;
-//     align-items: center;
-//     flex-wrap: wrap;
-//     gap: 0.5em;
-//     width: 100%;
-//   }
-//   .author__urls.social-icons li.author-lab a {
-//     /* 断行长名字 */
-//     word-break: break-word;
-//   }
-
-  .author__urls.social-icons li.author-lab {
+/* 1）让 author-lab 本身是横向 flex 容器 */
+.author-lab {
     display: flex !important;
     flex-direction: row !important;
     align-items: center !important;
@@ -167,6 +156,12 @@ h1:before, .anchor:before {
     gap: 0.5em !important;
     width: 100% !important;
   }
-  .author__urls.social-icons li.author-lab a {
+  /* 2）强制 i 和 a 都是行内块，不会各占整行 */
+  .author-lab i,
+  .author-lab a {
+    display: inline-block !important;
+  }
+  /* 3）超长文字自动换行 */
+  .author-lab a {
     word-break: break-word !important;
   }
