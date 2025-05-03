@@ -54,7 +54,7 @@ redirect_from:
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06*: &nbsp;🎊🎊 The first Journal article "A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge" Accepted by   <span style="font-weight:bold; color:#E34234;">Energy(Q1,IF=9)</span>
 
 # 📝 Publications 
 
