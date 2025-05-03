@@ -36,8 +36,8 @@ redirect_from:
   and
   <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>, et al.  
   In collaboration with these scholars, my work has spanned multiple areas, including  
-  <span style="font-weight: bold;color:rgb(206, 45, 45);">Optimized computational methods for quantum detuning</span>,  
-  <span style="font-weight: bold;color:rgb(206, 45, 45);">Real-time dynamic data coordination of full-condition power units via spatiotemporal redundancy techniques</span>,  
+  <span style="font-weight:bold; color:#8B0000;">Optimized computational methods for quantum detuning</span>,  
+  <span style="font-weight:bold; color:#8B0000;">Real-time dynamic data coordination of full-condition power units via spatiotemporal redundancy techniques</span>,  
   Data-driven modeling of industrial processes fault diagnosis, Microstructure–interface heat-transfer analysis, Human posture detection and action-recognition algorithms, Empirical asset pricing and Robot simulation control and motion-planning strategies.
 </p>
 
