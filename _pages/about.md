@@ -46,7 +46,7 @@ redirect_from:
     <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank" rel="noopener">National Natural Science Foundation of China (NSFC)</a>, <a href="https://www.miit.gov.cn/" target="_blank" rel="noopener">the Ministry of Industry and Information Technology (MIIT) pilot program</a> on Internet + Safety Production in Civil Explosives, open projects at the Hubei Provincial Key Laboratory, and funding from the Hubei Enterprise‑University Joint Innovation Center. <span style="font-weight:bold; color:#E34234;"> One of the research outcomes achieved an internationally advanced level appraised by MIIT</span>.
 </p>
 <p style="line-height: 1.6;">
-    In the meantime, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and JFR; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, EIT, and IEEE Access，et al. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
+    In the meantime, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and JFR et al.; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, EIT, and IEEE Access，et al. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
 </p>
 
 
