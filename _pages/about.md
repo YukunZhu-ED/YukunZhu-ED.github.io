@@ -81,7 +81,9 @@ redirect_from:
 </a>
 
 - A novel framework was proposed for the joint optimization of boiler subsystems.
-- 
+- Mechanism relationships were integrated into the data-driven characteristic models.
+- Effect of incorporating prior knowledge on modeling and optimization was validated.
+- A trade-off between eliminating gas temperature deviation and reducing NOx was found.
 </div>
 </div>
 
