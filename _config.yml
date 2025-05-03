@@ -41,6 +41,8 @@ author:
   email            : "zyk7915@163.com"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0003-9891-730X"
   researchgate     : "https://www.researchgate.net/profile/Yukun-Zhu-6?ev=hdr_xprf"
+  lab_name         : "Intelligent Manufacturing Laboratory for Process Industry"
+  lab_url          : "https://www.labxing.com/lab/2199/home"
   uri              :
   bitbucket        :
   codepen          :
@@ -59,7 +61,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            : “https://www.labxing.com/lab/2199/home”
+  # steam            : “https://www.labxing.com/lab/2199/home”
   tumblr           :
   twitter          : 
   vine             :
