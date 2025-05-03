@@ -86,7 +86,8 @@ redirect_from:
     </span>
     <span class="gs-badge-right">4</span>
   </a>
-</span>
+</span>|
+<span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>
 
 
 - A novel framework was proposed for the joint optimization of boiler subsystems.
