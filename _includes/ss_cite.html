@@ -1,12 +1,19 @@
 {%- assign doi = include.doi -%}
-{%- assign count = site.data.ss_data[doi] -%}
+{%- assign count = site.data.ss_data[doi] | default: 0 -%}
 {%- if count > 0 -%}
   <a
-    class="citation-badge"
+    class="gs-citation-badge"
     href="https://scholar.google.com/scholar?cites={{ doi | uri_escape }}"
     target="_blank"
     rel="noopener"
   >
-    Cited by {{ count }}
+    <span class="gs-badge-left">
+      <!-- 简易 mortarboard SVG 图标 -->
+      <svg aria-hidden="true" focusable="false" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 0L0 3l8 3 8-3-8-3zm0 6.5L0 3.5v5l8 3 8-3v-5L8 6.5z" fill="#555"/>
+      </svg>
+      <span class="gs-badge-text">Citations</span>
+    </span>
+    <span class="gs-badge-right">{{ count }}</span>
   </a>
 {%- endif -%}
