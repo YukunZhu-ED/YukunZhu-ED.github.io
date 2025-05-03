@@ -1,5 +1,12 @@
 {%- assign doi = include.doi -%}
 {%- assign count = site.data.ss_data[doi] -%}
-{%- if count -%}
-  | Citations: {{ count }}
+{%- if count > 0 -%}
+  <a
+    class="citation-badge"
+    href="https://scholar.google.com/scholar?cites={{ doi | uri_escape }}"
+    target="_blank"
+    rel="noopener"
+  >
+    Cited by {{ count }}
+  </a>
 {%- endif -%}
