@@ -78,7 +78,7 @@ redirect_from:
   rel="noopener"
 >
   <span class="gs-badge-left">
-    <!-- 简易 mortarboard SVG 图标 -->
+    <!-- mortarboard SVG -->
     <svg
       aria-hidden="true"
       focusable="false"
