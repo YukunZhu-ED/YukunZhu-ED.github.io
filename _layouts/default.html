@@ -34,7 +34,7 @@
     <script>
       document.addEventListener('DOMContentLoaded', () => {
         // 定义哪些元素点击时触发动画
-        const selector = 'p, h1, h2, h3, h4, h5, a, span';
+        const selector = 'p, h1, h2, h3, h4, h5, a, span,.site-desc, .site-desc-list li';
 
         document.body.addEventListener('click', (e) => {
           const el = e.target.closest(selector);
@@ -44,7 +44,7 @@
           gsap.fromTo(el,
             { scale: 1 },
             {
-              scale: 1.2,
+              scale: 1.4,
               duration: 0.2,
               ease: 'power1.out',
               yoyo: true,
