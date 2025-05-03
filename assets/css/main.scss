@@ -176,25 +176,29 @@ h1:before, .anchor:before {
   align-items: center;
 }
 
-/* Project 链接样式 */
-.project-with-badge .project-link {
-  margin-right: 0.5em;
-  text-decoration: none;
-  color: #1a0dab;
+/* 让链接和徽章在同一行 */
+.project-with-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5em; /* 链接和徽章之间留点空 */
 }
 
-/* Citation Badge 整体 */
+/* 去掉所有 a 标签下划线 */
+.project-with-badge a {
+  text-decoration: none;
+}
+
+/* 下面是你的 badge 样式，保持不变 */
 .gs-citation-badge {
   display: inline-flex;
   font-family: Arial, sans-serif;
   font-size: 0.85rem;
-  text-decoration: none;
   border-radius: 3px;
   overflow: hidden;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1);
 }
 
-/* 左半区：灰底、emoji 和文字 */
+/* 左半区 */
 .gs-badge-left {
   display: inline-flex;
   align-items: center;
@@ -203,13 +207,13 @@ h1:before, .anchor:before {
   padding: 2px 6px;
 }
 
-/* 调整 emoji 的样式 */
+/* Emoji 间距 */
 .gs-emoji {
   font-size: 16px;
   margin-right: 4px;
 }
 
-/* 右半区：浅蓝底、数字 */
+/* 右半区 */
 .gs-badge-right {
   display: inline-flex;
   align-items: center;
@@ -219,10 +223,6 @@ h1:before, .anchor:before {
   font-weight: 600;
 }
 
-/* 悬停效果 */
-.gs-citation-badge:hover .gs-badge-left {
-  background-color: #e0e0e0;
-}
-.gs-citation-badge:hover .gs-badge-right {
-  background-color: #d2e3fc;
-}
+/* Hover 效果 */
+.gs-citation-badge:hover .gs-badge-left { background-color: #e0e0e0; }
+.gs-citation-badge:hover .gs-badge-right { background-color: #d2e3fc; }
