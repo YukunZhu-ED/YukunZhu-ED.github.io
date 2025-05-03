@@ -62,10 +62,8 @@ redirect_from:
 - *2023.06*: &nbsp;🎊🎊 The first Journal article, <b style="color: #000000;">*A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge*</b> Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>.
 
 # 📝 Publications 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2024</div><img src='images/P1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 <span style="font-size:1.5rem; font-weight:600; line-height:1.3;">
   <a href="https://doi.org/10.1016/j.energy.2024.130432" target="_blank" rel="noopener">
     Mechanism-enhanced data-driven method for the joint optimization of boiler combustion and selective catalytic reduction systems considering gas temperature deviations
