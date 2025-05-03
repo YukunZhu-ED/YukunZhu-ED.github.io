@@ -42,8 +42,10 @@ redirect_from:
 </p>
 
 <p style="line-height: 1.8;">
-
+  In recent years, as a core team member I have contributed to several major research and engineering initiatives—among them projects funded by the National Natural Science Foundation of China, the MIIT’s “Internet + Civil Explosives Safety Production” pilot program, open grants from Hubei Province Key Laboratories, and the Hubei Industry‑University Joint Innovation Center Fund.
 </p>
+  <!-- 近几年，我作为核心成员参与了多项重要科研与工程项目，包括国家自然科学基金、工信部“互联网+民爆安全生产”试点课题、湖北省重点实验室开放课题，以及湖北省企校联合创新中心基金等。其中，1项研究成果被评定为国际领先水平。在此期间，我发表学术论文10余篇，涵盖《Energy》《JTICE》《JFR》等国内外权威期刊；授权发明专利3项，并获得软件著作权1件。我担任《Energy and AI》、《Asia‑Pacific Journal of Chemical Engineering》、《IEEE Access》等多种国际期刊的审稿人，并荣获江汉大学校长奖学金（前0.001%）等校内外多项荣誉。此外，我在国内外各级竞赛中共获奖20余项，其中包括2项国际奖、11项国家级奖和9项省级奖。 -->
+ <!-- One of these efforts was recognized as achieving an internationally leading level. During this period, I have published over ten papers in prestigious journals such as Energy, JTICE, and JFR; secured three invention patents; and obtained one software copyright. I also serve as a peer reviewer for Energy and AI, Asia‑Pacific Journal of Chemical Engineering, and IEEE Access, and have been honored with the Jianghan University President’s Scholarship (top 0.001%) among other distinctions. In addition, I have earned more than twenty awards in domestic and international competitions—comprising two international awards, eleven national‑level awards, and nine provincial‑level awards. -->
 
 
 
