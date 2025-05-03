@@ -152,59 +152,48 @@ h1:before, .anchor:before {
     }
   }
 
-/* 外层容器，无需改动 */
-.project-with-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.3em;
-}
-
-/* 主徽章样式：扁平化 & 略大字体 */
+/* 主徽章容器：只负责边框和整体阴影 */
 .gs-citation-badge.disabled {
   pointer-events: none;
   cursor: default;
   display: inline-flex;
-  align-items: center;
-  /* 不再硬设高度，靠内边距决定高度 */
-  height: auto;
-  font-size: 0.9rem;    /* 从 0.75rem 调到 0.8rem */
-  line-height: 1.2;     /* 略提高行高，保证字垂直居中 */
+  /* 让子元素撑开高度 */
+  padding: 0;
   border: 1px solid #dfe1e5;
   border-radius: 2px;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  background: none;
 }
 
-/* 左半区：更紧凑的内边距 */
-.gs-badge-left {
-  display: inline-flex;
-  align-items: center;
-  background-color: #f1f1f1;
-  color: #555;
-  /* 垂直内边距去到 0px→1px，水平略小 */
-  padding: 2px 4px;
-}
-
-/* emoji 维持原大小或略增 */
-.gs-emoji {
-  font-size: 15px;    /* 从 14px → 15px */
-  margin-right: 3px;
-}
-
-/* “Citations” 文本，无需额外改动，随整体 font-size 放大 */
-.gs-badge-text {
-  /* 继承 .gs-citation-badge.disabled 的 0.8rem */
-  margin-right: 4px;
-}
-
-/* 右半区：同样微调内边距 */
+/* 左右两块都统一高度、行高、字体 */
+.gs-badge-left,
 .gs-badge-right {
   display: inline-flex;
   align-items: center;
+  /* 同一高度，文字垂直居中 */
+  height: 24px;
+  line-height: 24px;
+  font-size: 0.9rem;
+  padding: 0 6px; /* 水平内边距，看需求可调 */
+}
+
+/* 左半区：灰背景 */
+.gs-badge-left {
+  background-color: #f1f1f1;
+  color: #555;
+}
+
+/* 右半区：蓝背景 */
+.gs-badge-right {
   background-color: #e8f0fe;
   color: #1967d2;
-  /* 变得更扁：垂直 1px→2px，水平略减 */
-  padding: 2px 4px;
   font-weight: 600;
+}
+
+/* Emoji 微调 */
+.gs-emoji {
+  font-size: 1em;     /* 跟文字等高 */
+  margin-right: 4px;
 }
 
 /* 禁用点击 */
