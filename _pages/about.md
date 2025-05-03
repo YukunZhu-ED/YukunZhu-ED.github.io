@@ -55,7 +55,7 @@ redirect_from:
 # 🔥 News
 - *2024.04*: &nbsp;
 - *2024.01*: &nbsp;🎉🎉 Our new journal article, <b style="color: #000000;">*Mechanism-enhanced data-driven method for the joint optimization of boiler combustion and selective catalytic reduction systems considering gas temperature deviations*</b>, Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>. Reviewers praised its innovative approach and high quality.
-- *2023.06*: &nbsp;🎊🎊 The first Journal article, <b>*A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge*</b> Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>.
+- *2023.06*: &nbsp;🎊🎊 The first Journal article, <b style="color: #000000;">*A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge*</b> Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>.
 
 # 📝 Publications 
 
