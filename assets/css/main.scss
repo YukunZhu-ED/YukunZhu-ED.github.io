@@ -170,62 +170,50 @@ h1:before, .anchor:before {
     text-decoration: underline;       /* 悬停时加下划线，和 GS 一致 */
   }
 
-/* 让整行左右对齐 */
-.project-with-badge {
-  display: inline-flex;
-  align-items: center;
-}
-
-/* 让链接和徽章在同一行 */
-.project-with-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.5em; /* 链接和徽章之间留点空 */
-}
-
-/* 去掉所有 a 标签下划线 */
-.project-with-badge a {
-  text-decoration: none;
-}
-
-/* 下面是你的 badge 样式，保持不变 */
-.gs-citation-badge {
-  display: inline-flex;
-  font-family: Arial, sans-serif;
-  font-size: 0.85rem;
-  border-radius: 3px;
-  overflow: hidden;
-  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-}
-
-/* 左半区 */
-.gs-badge-left {
-  display: inline-flex;
-  align-items: center;
-  background-color: #f1f1f1;
-  color: #555;
-  padding: 2px 6px;
-}
-
-/* Emoji 间距 */
-.gs-emoji {
-  font-size: 16px;
-  margin-right: 4px;
-}
-
-/* 右半区 */
-.gs-badge-right {
-  display: inline-flex;
-  align-items: center;
-  background-color: #e8f0fe;
-  color: #1967d2;
-  padding: 2px 8px;
-  font-weight: 600;
-}
-
-/* Hover 效果 */
-.gs-citation-badge:hover .gs-badge-left { background-color: #e0e0e0; }
-.gs-citation-badge:hover .gs-badge-right { background-color: #d2e3fc; }
+  .project-with-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em; /* 链接和徽章间距稍微小一点 */
+  }
+  
+  /* 禁用点击，顺便设定固定高度 */
+  .gs-citation-badge.disabled {
+    pointer-events: none;
+    cursor: default;
+    display: inline-flex;
+    align-items: center;
+    height: 20px;        /* 总高度从 24px 调到 20px */
+    line-height: 18px;   /* 内部文本行高 */
+    font-size: 0.75rem;  /* 整体字体再小一点 */
+    border-radius: 2px;  /* 圆角也相应小一点 */
+    overflow: hidden;
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+  }
+  
+  /* 左半区：减少内边距 */
+  .gs-badge-left {
+    display: inline-flex;
+    align-items: center;
+    background-color: #f1f1f1;
+    color: #555;
+    padding: 1px 4px;    /* 从 2px×6px 调到 1px×4px */
+  }
+  
+  /* 调小 emoji 大小 */
+  .gs-emoji {
+    font-size: 14px;     /* 从 16px 调到 14px */
+    margin-right: 3px;   /* 从 4px 调到 3px */
+  }
+  
+  /* 右半区：减少内边距 */
+  .gs-badge-right {
+    display: inline-flex;
+    align-items: center;
+    background-color: #e8f0fe;
+    color: #1967d2;
+    padding: 1px 6px;    /* 从 2px×8px 调到 1px×6px */
+    font-weight: 600;
+  }
 
 /* 禁用点击 */
 .gs-citation-badge.disabled {
