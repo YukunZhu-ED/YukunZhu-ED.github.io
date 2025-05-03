@@ -155,7 +155,7 @@ h1:before, .anchor:before {
   .citation-badge {
     display: inline-block;
     font-size: 0.85rem;               /* 与 GS 文本大小接近 */
-    color: #1a0dab;                   /* Google 链接蓝 */
+    color: #9ac8f6;                   /* Google 链接蓝 */
     text-decoration: none;            /* 去掉下划线 */
     background-color: #fff;           /* 白底 */
     border: 1px solid #dfe1e5;        /* 浅灰边框 */
@@ -169,3 +169,53 @@ h1:before, .anchor:before {
     background-color: #f1f3f4;        /* 悬停时浅灰背景 */
     text-decoration: underline;       /* 悬停时加下划线，和 GS 一致 */
   }
+
+  /* Google Scholar 风格 Citation Badge */
+.gs-citation-badge {
+  display: inline-flex;
+  font-family: Arial, sans-serif;
+  font-size: 0.85rem;
+  text-decoration: none;
+  border-radius: 3px;
+  overflow: hidden;
+  margin-left: 0.25em;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+/* 左半区：灰底，图标+文字 */
+.gs-citation-badge .gs-badge-left {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f1f1f1;  /* 灰色背景 */
+  color: #555;                /* 深灰文字 */
+  padding: 2px 6px;
+}
+
+/* 左半区图标和文字的间距 */
+.gs-citation-badge .gs-badge-left svg {
+  margin-right: 4px;
+}
+
+/* 文字本身 */
+.gs-citation-badge .gs-badge-text {
+  line-height: 1;
+}
+
+/* 右半区：浅蓝背景，数字 */
+.gs-citation-badge .gs-badge-right {
+  display: inline-flex;
+  align-items: center;
+  background-color: #e8f0fe;  /* Google 蓝的浅色调 */
+  color: #1967d2;             /* Google 标准蓝 */
+  padding: 2px 8px;
+  font-weight: 600;
+  line-height: 1;
+}
+
+/* 悬停效果：整体微微深一点 */
+.gs-citation-badge:hover .gs-badge-left {
+  background-color: #e0e0e0;
+}
+.gs-citation-badge:hover .gs-badge-right {
+  background-color: #d2e3fc;
+}
