@@ -226,3 +226,11 @@ h1:before, .anchor:before {
 /* Hover 效果 */
 .gs-citation-badge:hover .gs-badge-left { background-color: #e0e0e0; }
 .gs-citation-badge:hover .gs-badge-right { background-color: #d2e3fc; }
+
+/* 禁用点击 */
+.gs-citation-badge.disabled {
+  pointer-events: none;
+  cursor: default;
+  color: inherit; /* 保持文字颜色 */
+  text-decoration: none; /* 去掉下划线 */
+}
