@@ -1,29 +1,9 @@
----
-layout: compress
----
-
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-    <!-- === 弹性回弹动画的 CSS === -->
-    <style>
-      @keyframes bounce {
-        0%   { transform: scale(1); }
-        30%  { transform: scale(1.2); }
-        50%  { transform: scale(0.95); }
-        70%  { transform: scale(1.05); }
-        100% { transform: scale(1); }
-      }
-      .bounce-effect {
-        display: inline-block;
-        animation: bounce 0.5s ease;
-      }
-    </style>
-    <!-- === /CSS === -->
-
+    <!-- 其他 head 内容… -->
   </head>
 
   <body>
@@ -48,25 +28,36 @@ layout: compress
 
     {% include scripts.html %}
 
-    <!-- === 弹性回弹动画的 JS === -->
+    <!-- 引入 GSAP CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js" integrity="sha512-...（省略）" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <!-- 点击弹性动画脚本 -->
     <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        // 定义哪些元素点击时有回弹效果
+      document.addEventListener('DOMContentLoaded', () => {
+        // 定义哪些元素点击时触发动画
         const selector = 'p, h1, h2, h3, h4, h5, a, span';
 
-        document.body.addEventListener('click', function(event) {
-          const el = event.target.closest(selector);
+        document.body.addEventListener('click', (e) => {
+          const el = e.target.closest(selector);
           if (!el) return;
 
-          el.classList.add('bounce-effect');
-          el.addEventListener('animationend', function handler() {
-            el.classList.remove('bounce-effect');
-            el.removeEventListener('animationend', handler);
-          });
+          // 使用 GSAP 执行动画：从 scale=1 到 1.2，再回到 1，带回弹
+          gsap.fromTo(el,
+            { scale: 1 },
+            {
+              scale: 1.2,
+              duration: 0.2,
+              ease: 'power1.out',
+              yoyo: true,
+              repeat: 1,
+              onComplete() {
+                // 动画完成后保证元素恢复原状（通常 GSAP 已处理好）
+                gsap.set(el, { scale: 1 });
+              }
+            }
+          );
         });
       });
     </script>
-    <!-- === /JS === -->
 
   </body>
 </html>
