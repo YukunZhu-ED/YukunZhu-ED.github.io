@@ -103,22 +103,8 @@ redirect_from:
 </span>
 
 **Yukun Zhu**, Cong Yu📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
-
-[**Project**](https://doi.org/10.1016/j.energy.2023.128128)｜
-<!-- <span class="project-with-badge">
-  <a class="gs-citation-badge disabled"
-     href="https://scholar.google.com/scholar?cites=10.1016/j.energy.2023.128128"
-     target="_blank"
-     rel="noopener">
-    <span class="gs-badge-left">
-      <span class="gs-emoji" aria-hidden="true">🎓️</span>
-      <span class="gs-badge-text">Citations</span>
-    </span>
-    <span class="gs-badge-right">7</span>
-  </a>
-</span>|
-<span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span> -->
 {% assign doi = "10.1016/j.energy.2023.128128" %}
+[**Project**](https://doi.org/10.1016/j.energy.2023.128128)｜
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
      href="https://scholar.google.com/scholar?cites={{ doi }}"
@@ -134,6 +120,8 @@ redirect_from:
   </a>
 </span>
 <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>
+
+
 
 - A novel framework was proposed for the joint optimization of boiler subsystems.
 - Mechanism relationships were integrated into the data-driven characteristic models.
