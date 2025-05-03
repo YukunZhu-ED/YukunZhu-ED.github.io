@@ -139,3 +139,10 @@ h1:before, .anchor:before {
     display: inline-block;      /* 让 transform 生效 */
     animation: bounce 0.5s ease;
   }
+
+  /* 全局正文区域两端对齐 */
+.page__content {
+    text-align: justify;       /* 启用两端对齐 */
+    text-justify: inter-word;   /* 优化英文单词间距 */
+    hyphens: auto;              /* 自动断字（中英文皆可更优） */
+  }
