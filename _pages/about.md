@@ -94,6 +94,7 @@ redirect_from:
 - A trade-off between eliminating gas temperature deviation and reducing NOx was found.
 
 </div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2024</div><img src='images/P2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.2rem; font-weight:600; line-height:1.3;">
@@ -101,7 +102,7 @@ redirect_from:
       A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge
   </a>
 </span>
-
+</div>
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
