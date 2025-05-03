@@ -181,7 +181,7 @@ h1:before, .anchor:before {
   background-color: #f1f1f1;
   color: #555;
   /* 垂直内边距去到 0px→1px，水平略小 */
-  padding: 2px 5px;
+  padding: 2px 4px;
 }
 
 /* emoji 维持原大小或略增 */
@@ -203,7 +203,7 @@ h1:before, .anchor:before {
   background-color: #e8f0fe;
   color: #1967d2;
   /* 变得更扁：垂直 1px→2px，水平略减 */
-  padding: 2px 5px;
+  padding: 2px 4px;
   font-weight: 600;
 }
 
