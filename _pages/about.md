@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥰 Welcome!
-<p style="line-height: 1.8;">
+<p style="line-height: 1.6;">
   I am pursuing an MScR at <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>. Currently, I am reasearching in <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications(IDCOMs)</a>, supervisd by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a> from the Department of Engineering.
 </p>
 
-<p style="line-height: 1.8;">
+<p style="line-height: 1.6;">
   From 2020 to 2024, I completed a Bachelor’s degree in Intelligent Manufacturing at
   <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>,
   under the supervision of
@@ -41,9 +41,9 @@ redirect_from:
   Data-driven modeling of industrial processes fault diagnosis, Microstructure–interface heat-transfer analysis, Human posture detection and action-recognition algorithms, Empirical asset pricing and Robot simulation control and motion-planning strategies.
 </p>
 
-<p style="line-height: 1.8;">
+<p style="line-height: 1.6;">
     In recent years, I has participated as a core member in multiple key research and engineering projects, including grants from the 
-    <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank" rel="noopener">National Natural Science Foundation of China (NSFC)</a>.<a href="https://www.miit.gov.cn/" target="_blank" rel="noopener">the Ministry of Industry and Information Technology (MIIT) pilot program</a> on Internet + Safety Production in Civil Explosives, open projects at the Hubei Provincial Key Laboratory, and funding from the Hubei Enterprise‑University Joint Innovation Center. <span style="font-weight:bold; color:#E34234;"> One of the research outcomes achieved an internationally advanced level appraised by MIIT</span>, During this time, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and JFR; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, Asia‑Pacific Journal of Chemical Engineering, and IEEE Access. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
+    <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank" rel="noopener">National Natural Science Foundation of China (NSFC)</a>, <a href="https://www.miit.gov.cn/" target="_blank" rel="noopener">the Ministry of Industry and Information Technology (MIIT) pilot program</a> on Internet + Safety Production in Civil Explosives, open projects at the Hubei Provincial Key Laboratory, and funding from the Hubei Enterprise‑University Joint Innovation Center. <span style="font-weight:bold; color:#E34234;"> One of the research outcomes achieved an internationally advanced level appraised by MIIT</span>, During this time, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and JFR; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, Asia‑Pacific Journal of Chemical Engineering, and IEEE Access. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
 </p>
 
 
