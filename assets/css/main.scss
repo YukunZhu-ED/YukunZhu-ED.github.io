@@ -146,3 +146,9 @@ h1:before, .anchor:before {
     text-justify: inter-word;   /* 优化英文单词间距 */
     hyphens: auto;              /* 自动断字（中英文皆可更优） */
   }
+
+  .bio-text {
+    line-height: 2;    /* 或者 28px / 32px，按需设定 */
+    margin-bottom: 1em;  /* 如果你还想让段落之间距离更大 */
+  }
+  
