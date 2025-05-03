@@ -125,3 +125,17 @@ h1:before, .anchor:before {
     text-align: justify;
     text-justify: inter-word; // Firefox 下更好地做词间两端对齐
   }
+
+  @keyframes bounce {
+    0%   { transform: scale(1); }
+    30%  { transform: scale(1.2); }
+    50%  { transform: scale(0.95); }
+    70%  { transform: scale(1.05); }
+    100% { transform: scale(1); }
+  }
+  
+  /* 点击时用来触发动画的 class */
+  .bounce-effect {
+    display: inline-block;      /* 让 transform 生效 */
+    animation: bounce 0.5s ease;
+  }
