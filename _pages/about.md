@@ -70,27 +70,15 @@ redirect_from:
 
 **Yukun Zhu**, Cong Yu📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
 
-[**Project**](https://doi.org/10.1016/j.energy.2024.130432)|
-<a
-  class="gs-citation-badge"
-  href="https://scholar.google.com/scholar?cites=10.1016/j.energy.2024.130432"
-  target="_blank"
-  rel="noopener"
->
+[**Project**](https://doi.org/10.1016/j.energy.2024.130432)｜
+
+<a class="gs-citation-badge"
+   href="https://scholar.google.com/scholar?cites=10.1016/j.energy.2024.130432"
+   target="_blank"
+   rel="noopener">
   <span class="gs-badge-left">
-    <!-- mortarboard SVG -->
-    <svg
-      aria-hidden="true"
-      focusable="false"
-      height="16"
-      viewBox="0 0 16 16"
-      width="16"
-      xmlns="http://www.w3.org/2000/svg"
-    >
-      <path
-        d="M8 0L0 3l8 3 8-3-8-3zm0 6.5L0 3.5v5l8 3 8-3v-5L8 6.5z"
-        fill="#555"
-      />
+    <svg aria-hidden="true" focusable="false" height="16" viewBox="0 0 16 16" width="16" xmlns="http://www.w3.org/2000/svg">
+      <path d="M8 0L0 3l8 3 8-3-8-3zm0 6.5L0 3.5v5l8 3 8-3v-5L8 6.5z" fill="#555"/>
     </svg>
     <span class="gs-badge-text">Citations</span>
   </span>
@@ -98,11 +86,13 @@ redirect_from:
 </a>
 
 
+
 - A novel framework was proposed for the joint optimization of boiler subsystems.
 - Mechanism relationships were integrated into the data-driven characteristic models.
 - Effect of incorporating prior knowledge on modeling and optimization was validated.
 - A trade-off between eliminating gas temperature deviation and reducing NOx was found.
 - A global optimal point was identified by comparing different systems' objectives.
+
 </div>
 </div>
 
