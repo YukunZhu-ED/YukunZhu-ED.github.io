@@ -1,0 +1,5 @@
+{%- assign doi = include.doi -%}
+{%- assign count = site.data.ss_data[doi] -%}
+{%- if count -%}
+  | Citations: {{ count }}
+{%- endif -%}
