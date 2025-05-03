@@ -71,9 +71,17 @@ redirect_from:
 **Yukun Zhu**, Cong Yu📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
 
 [**Project**](https://doi.org/10.1016/j.energy.2024.130432)
-{% include ss_cite.html doi="10.1016/j.energy.2024.130432" %}
+<a 
+  class="citation-badge" 
+  href="https://scholar.google.com/scholar?cites={{ include.doi | uri_escape }}" 
+  target="_blank" 
+  rel="noopener"
+>
+  Cited by {{ site.data.ss_data[include.doi] }}
+</a>
 
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- A novel framework was proposed for the joint optimization of boiler subsystems.
+- 
 </div>
 </div>
 
