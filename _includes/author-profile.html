@@ -33,7 +33,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</a></li>      
       {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> {{ author.orcid | split: '=' | last }}</a></li>
+      <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> {{ author.orcid | split: '=' | last }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -68,15 +68,19 @@
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
-      
+      {% if author.googlescholar %}
+      <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+
       {% if author.lab_name and author.lab_url %}
-        <li class="author-lab" style="display:flex; align-items:center; flex-wrap:wrap; gap:0.5em; width:100%;"><i class="fa fa-fw fa-flask" aria-hidden="true"></i><a href="{{ author.lab_url }}" target="_blank" rel="noopener" style="word-break:break-word;">{{ author.lab_name }}</a></li>
-      {% endif %}
-
-      {% if page.author.lab_name and page.author.lab_url %}
-        <p class="author-lab">Lab:<a href="{{ page.author.lab_url }}" target="_blank" rel="noopener">{{ page.author.lab_name }}</a></p>  
-      {% endif %}
-
+      <li class="author-lab">
+        <i class="fa fa-fw fa-flask" aria-hidden="true"></i>
+        <a href="{{ author.lab_url }}" target="_blank" rel="noopener">
+          {{ author.lab_name }}
+        </a>
+      </li>
+    {% endif %}
+    
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
