@@ -68,10 +68,15 @@
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
-      {% if author.googlescholar %}
-        <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
-      {% endif %}
-      
+      {% if author.lab_name and author.lab_url %}
+      <li>
+        <i class="fa fa-fw fa-flask" aria-hidden="true"></i>
+        <a href="{{ author.lab_url }}" target="_blank" rel="noopener">
+          {{ author.lab_name }}
+        </a>
+      </li>
+    {% endif %}
+
       {% if page.author.lab_name and page.author.lab_url %}
         <p class="author-lab">Lab:<a href="{{ page.author.lab_url }}" target="_blank" rel="noopener">{{ page.author.lab_name }}</a></p>  
       {% endif %}
