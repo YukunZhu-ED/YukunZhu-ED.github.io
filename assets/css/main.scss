@@ -139,16 +139,15 @@ h1:before, .anchor:before {
     display: inline-block;      /* 让 transform 生效 */
     animation: bounce 0.5s ease;
   }
-
-  /* 全局正文区域两端对齐 */
-.page__content {
-    text-align: justify;       /* 启用两端对齐 */
-    text-justify: inter-word;   /* 优化英文单词间距 */
-    hyphens: auto;              /* 自动断字（中英文皆可更优） */
-  }
-
-  .bio-text {
-    line-height: 20;    /* 或者 28px / 32px，按需设定 */
-    margin-bottom: 1em;  /* 如果你还想让段落之间距离更大 */
-  }
   
+  .page__content {
+    text-align: justify;
+    text-justify: inter-word;
+    hyphens: auto;
+  
+    /* 给正文段落加行高 */
+    .bio-text {
+      line-height: 1.8;       // 或者写成 28px
+      margin-bottom: 1em;
+    }
+  }
