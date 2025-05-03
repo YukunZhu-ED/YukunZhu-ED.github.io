@@ -176,14 +176,14 @@ h1:before, .anchor:before {
   align-items: center;
 }
 
-/* Project 链接右侧留点空隙 */
+/* Project 链接样式 */
 .project-with-badge .project-link {
   margin-right: 0.5em;
   text-decoration: none;
-  color: #1a0dab; /* Google 链接蓝 */
+  color: #1a0dab;
 }
 
-/* Badge 整体 */
+/* Citation Badge 整体 */
 .gs-citation-badge {
   display: inline-flex;
   font-family: Arial, sans-serif;
@@ -194,7 +194,7 @@ h1:before, .anchor:before {
   box-shadow: 0 1px 1px rgba(0,0,0,0.1);
 }
 
-/* 左半区：灰底+图标+文字 */
+/* 左半区：灰底、emoji 和文字 */
 .gs-badge-left {
   display: inline-flex;
   align-items: center;
@@ -203,12 +203,13 @@ h1:before, .anchor:before {
   padding: 2px 6px;
 }
 
-/* SVG 与文字间隙 */
-.gs-badge-left svg {
+/* 调整 emoji 的样式 */
+.gs-emoji {
+  font-size: 16px;
   margin-right: 4px;
 }
 
-/* 右半区：浅蓝底+数字 */
+/* 右半区：浅蓝底、数字 */
 .gs-badge-right {
   display: inline-flex;
   align-items: center;
@@ -218,7 +219,7 @@ h1:before, .anchor:before {
   font-weight: 600;
 }
 
-/* Hover 效果 */
+/* 悬停效果 */
 .gs-citation-badge:hover .gs-badge-left {
   background-color: #e0e0e0;
 }
