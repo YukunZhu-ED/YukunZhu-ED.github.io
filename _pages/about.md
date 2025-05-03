@@ -43,10 +43,16 @@ redirect_from:
 
 <p style="line-height: 1.6;">
     In recent years, I has participated as a core member in multiple key research and engineering projects, including grants from the 
-    <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank" rel="noopener">National Natural Science Foundation of China (NSFC)</a>, <a href="https://www.miit.gov.cn/" target="_blank" rel="noopener">the Ministry of Industry and Information Technology (MIIT) pilot program</a> on Internet + Safety Production in Civil Explosives, open projects at the Hubei Provincial Key Laboratory, and funding from the Hubei Enterprise‑University Joint Innovation Center. <span style="font-weight:bold; color:#E34234;"> One of the research outcomes achieved an internationally advanced level appraised by MIIT</span>, During this time, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and JFR; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, Asia‑Pacific Journal of Chemical Engineering, and IEEE Access. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
+    <a href="https://www.nsfc.gov.cn/english/site_1/index.html" target="_blank" rel="noopener">National Natural Science Foundation of China (NSFC)</a>, <a href="https://www.miit.gov.cn/" target="_blank" rel="noopener">the Ministry of Industry and Information Technology (MIIT) pilot program</a> on Internet + Safety Production in Civil Explosives, open projects at the Hubei Provincial Key Laboratory, and funding from the Hubei Enterprise‑University Joint Innovation Center. <span style="font-weight:bold; color:#E34234;"> One of the research outcomes achieved an internationally advanced level appraised by MIIT</span>, During this time, I have published over ten papers in reputable domestic and international journals such as Energy, JTICE, and JFR with total <a href='https://scholar.google.com/citations?user=h5K5LXEAAAAJ'>google scholar citations; secured three invention patents; and obtained one software copyright.I served as a reviewer for international journals including Energy and AI, Asia‑Pacific Journal of Chemical Engineering, and IEEE Access. In addition, I won more than twenty awards in competitions at various levels, comprising two international awards, eleven national awards, and nine provincial awards.
 </p>
 
-
+<!-- <p>
+  这是一个
+  <span style="font-style: italic;">
+    斜体文字
+  </span>
+  示例。
+</p> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
