@@ -167,7 +167,7 @@ h1:before, .anchor:before {
   align-items: center;
   /* 不再硬设高度，靠内边距决定高度 */
   height: auto;
-  font-size: 0.8rem;    /* 从 0.75rem 调到 0.8rem */
+  font-size: 0.9rem;    /* 从 0.75rem 调到 0.8rem */
   line-height: 1.2;     /* 略提高行高，保证字垂直居中 */
   border: 1px solid #dfe1e5;
   border-radius: 2px;
@@ -181,7 +181,7 @@ h1:before, .anchor:before {
   background-color: #f1f1f1;
   color: #555;
   /* 垂直内边距去到 0px→1px，水平略小 */
-  padding: 1px 3px;
+  padding: 2px 5px;
 }
 
 /* emoji 维持原大小或略增 */
