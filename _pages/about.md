@@ -21,7 +21,9 @@ redirect_from:
 I am pursuing an MScR at <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>. Currently, I am reasearching in <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications(IDCOMs)</a>, supervisd by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a> from the Department of Engineering.
 
 I graduated from <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University
-</a>, College of Intelligent Manufacturing with a bachelor’s degree, advised by <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Cong Yu</a>
+</a>,College of Intelligent Manufacturing with a bachelor’s degree, advised by <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Cong Yu</a>. I also collaborate with <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Wei Fan</a>,<a href="https://seh.jhun.edu.cn/86/8d/c6485a165517/page.htm" target="_blank" rel="noopener">Ling Shi</a>,<a href="https://jjxy.jhun.edu.cn/15/9a/c1966a136602/pagem.htm" target="_blank" rel="noopener">Xia Liu</a>,<a href="https://power.seu.edu.cn/rsj/listm.htm" target="_blank" rel="noopener">Shaojun Ren</a>,
+
+
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
