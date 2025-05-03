@@ -1,0 +1,43 @@
+<!-- _includes/fetch_google_scholar_stats.html -->
+<script>
+    // 1. 先拉取 GitHub Action 生成的 Google Scholar 数据（gs_data.json）
+    document.addEventListener('DOMContentLoaded', () => {
+      const gsUrl = '{{ site.data.gs_data_url | default: "/gs_data.json" }}';
+  
+      fetch(gsUrl)
+        .then(res => {
+          if (!res.ok) throw new Error('GS JSON 读取失败');
+          return res.json();
+        })
+        .then(data => {
+          // data 形如 { "10.1016/j.energy.2024.130432": { citations: 12, year: 2024 }, … }
+          document.querySelectorAll('.show_paper_citations[data-doi]').forEach(el => {
+            const doi = el.getAttribute('data-doi');
+            const rec = data[doi];
+            if (rec && rec.citations != null) {
+              el.insertAdjacentHTML('beforeend',
+                ` | GS: ${rec.citations}<sup>(${rec.year})</sup>`
+              );
+            }
+          });
+        })
+        .catch(err => console.error('Google Scholar 数据拉取出错：', err));
+  
+      // 2. 再对每个 <span data-doi> 并行调 Semantic Scholar API
+      document.querySelectorAll('.show_paper_citations[data-doi]').forEach(async el => {
+        const doi = el.getAttribute('data-doi');
+        try {
+          const apiUrl = 
+            `https://api.semanticscholar.org/graph/v1/paper/DOI:${encodeURIComponent(doi)}?fields=citationCount`;
+          const res = await fetch(apiUrl);
+          if (!res.ok) throw new Error(`SS 返回 ${res.status}`);
+          const json = await res.json();
+          const ssCite = json.citationCount != null ? json.citationCount : 'N/A';
+          el.insertAdjacentHTML('beforeend', ` | SS: ${ssCite}`);
+        } catch (e) {
+          console.error('Semantic Scholar 抓取出错 for', doi, e);
+        }
+      });
+    });
+  </script>
+  
