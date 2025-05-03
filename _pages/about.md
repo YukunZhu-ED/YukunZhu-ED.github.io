@@ -102,6 +102,7 @@ redirect_from:
 - Mechanism relationships were integrated into the data-driven characteristic models.
 - Effect of incorporating prior knowledge on modeling and optimization was validated.
 - A trade-off between eliminating gas temperature deviation and reducing NOx was found.
+- A global optimal point was identified by comparing different systems' objectives.
 </div>
 </div>
 
