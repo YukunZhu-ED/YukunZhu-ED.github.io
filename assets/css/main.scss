@@ -147,17 +147,17 @@ h1:before, .anchor:before {
     hyphens: auto;              /* 自动断字（中英文皆可更优） */
   }
 
-  .author__urls.social-icons li.author-lab {
-    display: flex !important;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 0.5em;
-    width: 100%;
-  }
-  .author__urls.social-icons li.author-lab a {
-    /* 断行长名字 */
-    word-break: break-word;
-  }
+//   .author__urls.social-icons li.author-lab {
+//     display: flex !important;
+//     align-items: center;
+//     flex-wrap: wrap;
+//     gap: 0.5em;
+//     width: 100%;
+//   }
+//   .author__urls.social-icons li.author-lab a {
+//     /* 断行长名字 */
+//     word-break: break-word;
+//   }
 
   .author__urls.social-icons li.author-lab {
     display: flex !important;
