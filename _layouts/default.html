@@ -7,6 +7,23 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <!-- === 弹性回弹动画的 CSS === -->
+    <style>
+      @keyframes bounce {
+        0%   { transform: scale(1); }
+        30%  { transform: scale(1.2); }
+        50%  { transform: scale(0.95); }
+        70%  { transform: scale(1.05); }
+        100% { transform: scale(1); }
+      }
+      .bounce-effect {
+        display: inline-block;
+        animation: bounce 0.5s ease;
+      }
+    </style>
+    <!-- === /CSS === -->
+
   </head>
 
   <body>
@@ -18,7 +35,9 @@ layout: compress
       {% include sidebar.html %}
     
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-        {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+        {% if page.title %}
+          <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
+        {% endif %}
         <div class="page__inner-wrap">
           <section class="page__content" itemprop="text">
             {{ content }}
@@ -28,6 +47,26 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+
+    <!-- === 弹性回弹动画的 JS === -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        // 定义哪些元素点击时有回弹效果
+        const selector = 'p, h1, h2, h3, h4, h5, a, span';
+
+        document.body.addEventListener('click', function(event) {
+          const el = event.target.closest(selector);
+          if (!el) return;
+
+          el.classList.add('bounce-effect');
+          el.addEventListener('animationend', function handler() {
+            el.classList.remove('bounce-effect');
+            el.removeEventListener('animationend', handler);
+          });
+        });
+      });
+    </script>
+    <!-- === /JS === -->
 
   </body>
 </html>
