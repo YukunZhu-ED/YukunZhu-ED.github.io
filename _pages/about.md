@@ -27,7 +27,7 @@ redirect_from:
   <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>,
   under the supervision of
   <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
-  During this period, I also collaborated closely with leading scholars,
+  During this period, I also collaborated closely with leading scholars from many schools,
   <a href="https://mypage.just.edu.cn/nydl/fw/list.htm" target="_blank" rel="noopener">Dr. Wei Fan</a>,
   <a href="https://seh.jhun.edu.cn/86/8d/c6485a165517/page.htm" target="_blank" rel="noopener">Prof. Ling Shi</a>,
   <a href="https://jjxy.jhun.edu.cn/15/9a/c1966a136602/pagem.htm" target="_blank" rel="noopener">Prof. Xia Liu</a>,
