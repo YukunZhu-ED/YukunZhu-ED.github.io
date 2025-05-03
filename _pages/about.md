@@ -68,7 +68,7 @@ redirect_from:
 
 [Mechanism-enhanced data-driven method for the joint optimization of boiler combustion and selective catalytic reduction systems considering gas temperature deviations](https://doi.org/10.1016/j.energy.2024.130432)
 
-**Yukun Zhu**, Cong Yu, Wei Jin, Ling Shi, Bo Chen, Pei Xu
+**Yukun Zhu**, Cong Yu📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
 
 [**Project**](https://doi.org/10.1016/j.energy.2024.130432) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
