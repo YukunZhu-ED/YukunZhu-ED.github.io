@@ -152,68 +152,60 @@ h1:before, .anchor:before {
     }
   }
 
-  .citation-badge {
-    display: inline-block;
-    font-size: 0.85rem;               /* 与 GS 文本大小接近 */
-    color: #9ac8f6;                   /* Google 链接蓝 */
-    text-decoration: none;            /* 去掉下划线 */
-    background-color: #fff;           /* 白底 */
-    border: 1px solid #dfe1e5;        /* 浅灰边框 */
-    border-radius: 3px;               /* 轻微圆角 */
-    padding: 2px 6px;                 /* 内边距 */
-    margin-left: 0.25em;              /* 跟前面文字保持距离 */
-    line-height: 1.4;                 /* 合理的行高 */
-    transition: background-color .2s; /* 悬停时微动效 */
-  }
-  .citation-badge:hover {
-    background-color: #f1f3f4;        /* 悬停时浅灰背景 */
-    text-decoration: underline;       /* 悬停时加下划线，和 GS 一致 */
-  }
+/* 外层容器，无需改动 */
+.project-with-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+}
 
-  .project-with-badge {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.3em; /* 链接和徽章间距稍微小一点 */
-  }
-  
-  /* 禁用点击，顺便设定固定高度 */
-  .gs-citation-badge.disabled {
-    pointer-events: none;
-    cursor: default;
-    display: inline-flex;
-    align-items: center;
-    height: 16px;        /* 总高度从 24px 调到 20px */
-    line-height: 18px;   /* 内部文本行高 */
-    font-size: 0.75rem;  /* 整体字体再小一点 */
-    border-radius: 2px;  /* 圆角也相应小一点 */
-    overflow: hidden;
-    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
-  }
-  
-  /* 左半区：减少内边距 */
-  .gs-badge-left {
-    display: inline-flex;
-    align-items: center;
-    background-color: #f1f1f1;
-    color: #555;
-    padding: 1px 4px;    /* 从 2px×6px 调到 1px×4px */
-  }
-  
-  /* 调小 emoji 大小 */
-  .gs-emoji {
-    font-size: 14px;     /* 从 16px 调到 14px */
-    margin-right: 3px;   /* 从 4px 调到 3px */
-  }
-  
-  /* 右半区：减少内边距 */
-  .gs-badge-right {
-    display: inline-flex;
-    align-items: center;
-    background-color: #e8f0fe;
-    color: #1967d2;
-    padding: 1px 6px;    /* 从 2px×8px 调到 1px×6px */
-    font-weight: 600;
-  }
+/* 主徽章样式：扁平化 & 略大字体 */
+.gs-citation-badge.disabled {
+  pointer-events: none;
+  cursor: default;
+  display: inline-flex;
+  align-items: center;
+  /* 不再硬设高度，靠内边距决定高度 */
+  height: auto;
+  font-size: 0.8rem;    /* 从 0.75rem 调到 0.8rem */
+  line-height: 1.2;     /* 略提高行高，保证字垂直居中 */
+  border: 1px solid #dfe1e5;
+  border-radius: 2px;
+  box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+
+/* 左半区：更紧凑的内边距 */
+.gs-badge-left {
+  display: inline-flex;
+  align-items: center;
+  background-color: #f1f1f1;
+  color: #555;
+  /* 垂直内边距去到 0px→1px，水平略小 */
+  padding: 1px 3px;
+}
+
+/* emoji 维持原大小或略增 */
+.gs-emoji {
+  font-size: 15px;    /* 从 14px → 15px */
+  margin-right: 3px;
+}
+
+/* “Citations” 文本，无需额外改动，随整体 font-size 放大 */
+.gs-badge-text {
+  /* 继承 .gs-citation-badge.disabled 的 0.8rem */
+  margin-right: 4px;
+}
+
+/* 右半区：同样微调内边距 */
+.gs-badge-right {
+  display: inline-flex;
+  align-items: center;
+  background-color: #e8f0fe;
+  color: #1967d2;
+  /* 变得更扁：垂直 1px→2px，水平略减 */
+  padding: 2px 5px;
+  font-weight: 600;
+}
 
 /* 禁用点击 */
 .gs-citation-badge.disabled {
