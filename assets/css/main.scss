@@ -158,3 +158,15 @@ h1:before, .anchor:before {
     /* 断行长名字 */
     word-break: break-word;
   }
+
+  .author__urls.social-icons li.author-lab {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    gap: 0.5em !important;
+    width: 100% !important;
+  }
+  .author__urls.social-icons li.author-lab a {
+    word-break: break-word !important;
+  }
