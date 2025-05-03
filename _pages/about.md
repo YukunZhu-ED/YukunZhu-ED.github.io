@@ -71,9 +71,7 @@ redirect_from:
 **Yukun Zhu**, Cong Yu📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
 
 [**Project**](https://doi.org/10.1016/j.energy.2024.130432)
-<span class="show_paper_citations">
-  {% include ss_cite.html doi="10.1016/j.energy.2024.130432" %}
-</span>
+{% include ss_cite.html doi="10.1016/j.energy.2024.130432" %}
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
