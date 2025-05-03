@@ -21,18 +21,18 @@ redirect_from:
 I am pursuing an MScR at <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>. Currently, I am reasearching in <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications(IDCOMs)</a>, supervisd by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a> from the Department of Engineering.
 
 <p>
-  From 2020 to 2024, I completed a Bachelor’s degree in Intelligent Manufacturing at
+  From 2020 to 2024, I have completed a Bachelor’s degree in Intelligent Manufacturing at
   <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>,
   supervised by
   <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
   During this period, I also collaborated closely with leading scholars,
-  <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Wei Fan</a>,
+  <a href="https://mypage.just.edu.cn/nydl/fw/list.htm" target="_blank" rel="noopener">Dr. Wei Fan</a>,
   <a href="https://seh.jhun.edu.cn/86/8d/c6485a165517/page.htm" target="_blank" rel="noopener">Prof. Ling Shi</a>,
   <a href="https://jjxy.jhun.edu.cn/15/9a/c1966a136602/pagem.htm" target="_blank" rel="noopener">Prof. Xia Liu</a>,
   <a href="https://power.seu.edu.cn/rsj/listm.htm" target="_blank" rel="noopener">Dr. Shaojun Ren</a>,
   <a href="http://school.freekaoyan.com/hb/jhun/2021/08-15/16290354621509372.shtml" target="_blank" rel="noopener">Prof. Xiaoli Hu</a>,
   and
-  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>.
+  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>,involving many areas, such as optimized computation for quantum detuning, real-time dynamic data coordination of full-condition power units via spatiotemporal redundancy techniques, data-driven modeling of industrial processes, microstructure–interface heat transfer, human posture detection and action recognition, and robot simulation control and motion planning.
 </p>
 
 
