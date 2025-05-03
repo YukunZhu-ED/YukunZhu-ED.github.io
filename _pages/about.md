@@ -26,16 +26,21 @@ redirect_from:
   From 2020 to 2024, I completed a Bachelor’s degree in Intelligent Manufacturing at
   <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>,
   under the supervision of
-  <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
+  <a href="https://jjxy.jhun.edu.cn/25/b9/c5953a140729/page.psp" target="_blank" rel="noopener">Dr. Cong Yu</a>.
   During this period, I also collaborated closely with leading scholars,
-  <a href="https://mypage.just.edu.cn/nydl/fw/list.htm" target="_blank" rel="noopener">Dr. Wei Fan</a>,
-  <a href="https://seh.jhun.edu.cn/86/8d/c6485a165517/page.htm" target="_blank" rel="noopener">Prof. Ling Shi</a>,
-  <a href="https://jjxy.jhun.edu.cn/15/9a/c1966a136602/pagem.htm" target="_blank" rel="noopener">Prof. Xia Liu</a>,
-  <a href="https://power.seu.edu.cn/rsj/listm.htm" target="_blank" rel="noopener">Dr. Shaojun Ren</a>,
-  <a href="http://school.freekaoyan.com/hb/jhun/2021/08-15/16290354621509372.shtml" target="_blank" rel="noopener">Prof. Xiaoli Hu</a>,
+  <a href="https://mypage.just.edu.cn/nydl/fw/list.htm" target="_blank" rel="noopener">Dr. Wei Fan</a>,
+  <a href="https://seh.jhun.edu.cn/86/8d/c6485a165517/page.htm" target="_blank" rel="noopener">Prof. Ling Shi</a>,
+  <a href="https://jjxy.jhun.edu.cn/15/9a/c1966a136602/pagem.htm" target="_blank" rel="noopener">Prof. Xia Liu</a>,
+  <a href="https://power.seu.edu.cn/rsj/listm.htm" target="_blank" rel="noopener">Dr. Shaojun Ren</a>,
+  <a href="http://school.freekaoyan.com/hb/jhun/2021/08-15/16290354621509372.shtml" target="_blank" rel="noopener">Prof. Xiaoli Hu</a>,
   and
-  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>, et al. In collaboration with these scholars,my work has spanned multiple areas, including Optimized computational methods for quantum detuning, Real‑time dynamic data coordination of full‑condition power units via spatiotemporal redundancy techniques, Data‑driven modeling of industrial processes fault diagnosis, Microstructure–interface heat‑transfer analysis, Human posture detection and action‑recognition algorithms, Empirical asset pricing and Robot simulation control and motion‑planning strategies.
+  <a href="https://xiaohaotian.cc/" target="_blank" rel="noopener">Haotian Xiao</a>, et al.  
+  In collaboration with these scholars, my work has spanned multiple areas, including  
+  <strong>Optimized computational methods for quantum detuning</strong>,  
+  <strong>Real-time dynamic data coordination of full-condition power units via spatiotemporal redundancy techniques</strong>,  
+  Data-driven modeling of industrial processes fault diagnosis, Microstructure–interface heat-transfer analysis, Human posture detection and action-recognition algorithms, Empirical asset pricing and Robot simulation control and motion-planning strategies.
 </p>
+
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
