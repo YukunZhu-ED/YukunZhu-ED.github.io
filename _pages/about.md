@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🥰 Welcome!
-<p style="line-height: 2;">
+<p style="line-height: 1.8;">
   I am pursuing an MScR at <a href="https://www.ed.ac.uk" target="_blank" rel="noopener">The University of Edinburgh</a>. Currently, I am reasearching in <a href="https://eng.ed.ac.uk/research/institutes/idcom" target="_blank" rel="noopener">Institute for Imaging, Data and Communications(IDCOMs)</a>, supervisd by <a href="https://eng.ed.ac.uk/about/people/dr-chang-liu" target="_blank" rel="noopener">Dr. Chang Liu</a> from the Department of Engineering.
 </p>
 
-<p style="line-height: 2;">
+<p style="line-height: 1.8;">
   From 2020 to 2024, I completed a Bachelor’s degree in Intelligent Manufacturing at
   <a href="https://www.jhun.edu.cn/" target="_blank" rel="noopener">Jianghan University</a>,
   under the supervision of
