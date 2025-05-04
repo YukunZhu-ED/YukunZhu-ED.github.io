@@ -270,8 +270,16 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 -  江汉大学高层次人才科研项目：数据与机理融合驱动的燃煤电站脱硝催化剂寿命预测模型研究，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2021.1-2023.12，结题；
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025* **M Prize**, Mathematical Contest in Modeling for American College Students(MCM/ICM)
+- *2024* **President's Scholarship of Jianghan University** (Only 10 in the whole school) 
+- *2023* **First Prize**, The 4th MathorCup College Mathematical Modeling Challenge (Top 5 percent)
+- *2023* **First Prize**, The 3rd MathorCup Mathematical Modeling Challenge in Colleges and Universities (Top 5 percent)
+- *2022* **First Prize**, The 14th Huazhong Cup College Student Mathematical Modeling Challenge (Top 5 percent)
+- *2022* **First Prize**, The 7th Shuwei Cup National Undergraduate Mathematical Modeling Challenge (Top 5 percent)
+- *2022* **First Prize**, The First "Dingding Cup" College Student Big Data Challenge (The first of 2439 teams)
+- *2022* **Second Prize**, The 12th International Mathematical Contest in Modeling for University Students in the Asia-Pacific Region
+- *2022* **Silver Award**, The 3rd National Undergraduate Algorithm Design and Programming Challenge (Top 10 percent)
+- *2021* **Second Prize**, The 13th National Undergraduate Mathematics Competition (Top 10 percent) 
 
 # 📖 Educations
 - *2025.04 - 2025 (now)*, MScR of Digital Conmmunications, University of Edinburgh
