@@ -64,7 +64,7 @@ redirect_from:
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2024</div><img src='images/P1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span style="font-size:1.2rem; font-weight:600; line-height:1.3;">
+<span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://doi.org/10.1016/j.energy.2024.130432" target="_blank" rel="noopener">
     Mechanism-enhanced data-driven method for the joint optimization of boiler combustion and selective catalytic reduction systems considering gas temperature deviations
   </a>
@@ -96,7 +96,7 @@ redirect_from:
 </div>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2023</div><img src='images/P2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span style="font-size:1.2rem; font-weight:600; line-height:1.3;">
+<span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
   <a href="https://doi.org/10.1016/j.energy.2023.128128" target="_blank" rel="noopener">
       A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge
   </a>
@@ -123,10 +123,8 @@ redirect_from:
 
 
 
-- A novel framework was proposed for the joint optimization of boiler subsystems.
-- Mechanism relationships were integrated into the data-driven characteristic models.
-- Effect of incorporating prior knowledge on modeling and optimization was validated.
-- A trade-off between eliminating gas temperature deviation and reducing NOx was found.
+- The monotonous LightGBM model fits better and presents a more stable performance in the single factor variation experiment than the model without prior information.
+- 
 
 </div>
 </div>
