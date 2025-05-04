@@ -90,8 +90,8 @@ Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
 </span>｜
 <span style="font-weight:bold; color:#E34234;">*ACS OMEGA* (Q2,IF=3.7)</span>
 
-- [**Feature extraction & fusion**]: Use KICA to remove nonlinear correlations, then fuse independent components with key physics-based variables.
-- [**Multimode segmentation**]: Apply RGMM to identify distinct boiler operating modes and split data accordingly.
+- **Feature extraction & fusion**: Use KICA to remove nonlinear correlations, then fuse independent components with key physics-based variables.
+- **Multimode segmentation**: Apply RGMM to identify distinct boiler operating modes and split data accordingly.
 
 </div>
 </div>
