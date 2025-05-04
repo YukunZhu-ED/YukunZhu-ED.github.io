@@ -244,7 +244,9 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 
 - [基于BO-WT-VMD组合模型的钢丝绳的损伤信号降噪方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLR7oJIP8Kmnjfkwn535lXocem97IdO397VrEP1BrAr2McElKl5JY_H5X35J4XlxPf1RY4CqrR1JUhomYm55p9a1vXLj11xHhU3CEPCBnW1VtMGByhKU6llbRKQCOOiqxmzAs6uL_JQTTL4q-PSY0wvWjSyVKWFe30zXyGaWGM47A==&uniplatform=NZKPT&language=CHS), **朱宇坤**，黎恒，吴文俊，柯圆圆 <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2024**
 
-- [基于可解释性的多模型融合的古代玻璃成分分析及亚分类方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLMUbW0k_U8nda6dU4fmSyRTCg6rk2jsGwz6GGiJ1UxDQpVvmHbEQKzcV-jKegukWtolZPE8-skXxgM2ZxZuH49qSsCQkxEq6qD-eeDRBXHJbo69E-ITxx1PQHXTY6mWq7TEX5u4UMDPUB1rHCMuhXCBDZKeuJSyumCOi31TaRhQQ==&uniplatform=NZKPT&language=CHS)
+- [基于可解释性的多模型融合的古代玻璃成分分析及亚分类方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLMUbW0k_U8nda6dU4fmSyRTCg6rk2jsGwz6GGiJ1UxDQpVvmHbEQKzcV-jKegukWtolZPE8-skXxgM2ZxZuH49qSsCQkxEq6qD-eeDRBXHJbo69E-ITxx1PQHXTY6mWq7TEX5u4UMDPUB1rHCMuhXCBDZKeuJSyumCOi31TaRhQQ==&uniplatform=NZKPT&language=CHS)汤思远, 黎恒，邱诗睿，**朱宇坤**, 柯圆圆 <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2024**
+
+-
 
 
 
