@@ -63,6 +63,38 @@ redirect_from:
 - *2012.06*: &nbsp;🥳🥳 小学奥赛新希望杯，老新希望杯，华罗庚杯，创新杯，世界奥林匹克，新星杯，新苗杯，IMAS,学用杯等金满贯
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS OMEGA 2024</div><img src='images/P4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
+  <a href="https://doi.org/10.1021/acsomega.4c05009" target="_blank" rel="noopener">
+    Forecast of NOx Emissions for a 660MW Coal-Fired Boiler with Multilayered Gradient Boosting Decision Tree Considering Multiple Operating Modes
+  </a>
+</span>
+
+Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
+
+[**Project**](https://doi.org/10.1021/acsomega.4c05009)｜
+<span class="project-with-badge">
+  <a class="gs-citation-badge disabled"
+     href="https://scholar.google.com/scholar?cites=10.1021/acsomega.4c05009"
+     target="_blank"
+     rel="noopener">
+    <span class="gs-badge-left">
+      <span class="gs-emoji" aria-hidden="true">🎓️</span>
+      <span class="gs-badge-text">Citations</span>
+    </span>
+    <span class="gs-badge-right">4</span>
+  </a>
+</span>|
+<span style="font-weight:bold; color:#E34234;">*ACS OMEGA* (Q2,IF=3.7)</span>
+
+-
+-
+-
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2024</div><img src='images/P1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
