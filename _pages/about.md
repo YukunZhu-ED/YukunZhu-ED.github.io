@@ -271,7 +271,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 
 # 🎖 Honors and Awards
 - *2025* <span style="font-weight:bold; color:#E34234;">**M Prize**</span>, Mathematical Contest in Modeling for American College Students(MCM/ICM)
-- *2024* <span style="font-weight:bold; color:#E34234;">**President's Scholarship of Jianghan University**</span> (Only 10 in the whole school) 
+- *2024* <span style="font-weight:bold; color:#E34234;">**President's Scholarship of Jianghan University**</span> (Only 10 people in the whole school) 
 - *2023* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 4th MathorCup College Mathematical Modeling Challenge (Top 5 percent)
 - *2023* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 3rd MathorCup Mathematical Modeling Challenge in Colleges and Universities (Top 5 percent)
 - *2022* <span style="font-weight:bold; color:#E34234;">**First Prize**</span>, The 14th Huazhong Cup College Student Mathematical Modeling Challenge (Top 5 percent)
