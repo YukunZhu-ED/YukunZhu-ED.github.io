@@ -60,7 +60,7 @@ redirect_from:
 - *2024.01*: &nbsp;🎉🎉 Our new journal article, <b style="color: #000000;">*Mechanism-enhanced data-driven method for the joint optimization of boiler combustion and selective catalytic reduction systems considering gas temperature deviations*</b>, Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>. Reviewers praised its innovative approach and high quality.
 - *2023.06*: &nbsp;🥂🥂 <a href="https://www.nmmcm.org.cn/notice_detail/231" target="_blank" rel="noopener">"2022年钉钉杯大数据挑战赛复赛一等奖被官方邀请在网上发表获奖感言，并且进行建模经验分享"</a>.
 - *2023.06*: &nbsp;🎊🎊 The first Journal article, <b style="color: #000000;">*A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge*</b> Accepted by <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>.
-- *2012.06*: &nbsp;🥳🥳 小学奥赛新希望杯，老新希望杯，华罗庚杯，创新杯，世界奥林匹克，新星杯，新苗杯，IMAS,学用杯等金满贯
+- *2014.06*: &nbsp;🥳🥳 小学奥赛新希望杯，老新希望杯，华罗庚杯，创新杯，世界奥林匹克，新星杯，新苗杯，IMAS,学用杯等金满贯
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS OMEGA 2024</div><img src='images/P4.png' alt="sym" width="100%"></div></div>
