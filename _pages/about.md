@@ -118,7 +118,7 @@ redirect_from:
       {{ site.data.ss_data[doi] | default: 0 }}
     </span>
   </a>
-</span>
+</span>｜
 <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>
 
 
