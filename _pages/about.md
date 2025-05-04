@@ -74,6 +74,7 @@ redirect_from:
 Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
 
 [**Project**](https://doi.org/10.1021/acsomega.4c05009)｜
+{% assign doi = "10.1021/acsomega.4c05009" %}
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
      href="https://scholar.google.com/scholar?cites=10.1021/acsomega.4c05009"
@@ -104,20 +105,22 @@ Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
 </span>
 
 **Yukun Zhu**, Cong Yu📧, Wei Jin📧, Ling Shi, Bo Chen, Pei Xu
-
+{% assign doi = "10.1016/j.energy.2024.130432" %}
 [**Project**](https://doi.org/10.1016/j.energy.2024.130432)｜
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
-     href="https://scholar.google.com/scholar?cites=10.1016/j.energy.2024.130432"
+     href="https://scholar.google.com/scholar?cites={{ doi }}"
      target="_blank"
      rel="noopener">
     <span class="gs-badge-left">
       <span class="gs-emoji" aria-hidden="true">🎓️</span>
       <span class="gs-badge-text">Citations</span>
     </span>
-    <span class="gs-badge-right">4</span>
+    <span class="gs-badge-right">
+      {{ site.data.ss_data[doi] | default: 0 }}
+    </span>
   </a>
-</span>|
+</span>｜
 <span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>
 
 - A novel framework was proposed for the joint optimization of boiler subsystems.
