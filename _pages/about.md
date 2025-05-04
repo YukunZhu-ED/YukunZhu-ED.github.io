@@ -124,7 +124,7 @@ redirect_from:
 
 
 - The monotonous LightGBM model fits better and presents a more stable performance in the single factor variation experiment than the model without prior information.
-- 
+- The robust multivariate steady-state algorithm can effectively reduce the impacts of outliers and accurately distinguish the boundaries between the steady-state interval and the non-steady-state interval
 
 </div>
 </div>
