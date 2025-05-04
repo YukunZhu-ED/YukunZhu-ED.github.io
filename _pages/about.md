@@ -95,6 +95,43 @@ redirect_from:
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JTICE 2023</div><img src='images/P3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
+  <a href="https://doi.org/10.1016/j.jtice.2023.105252" target="_blank" rel="noopener">
+    NOx formation model for utility boilers using robust two-step steady-state detection and multimodal residual convolutional auto-encoder
+  </a>
+</span>
+
+Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
+{% assign doi = "10.1016/j.jtice.2023.105252" %}
+[**Project**](https://doi.org/10.1016/j.jtice.2023.105252)｜
+<span class="project-with-badge">
+  <a class="gs-citation-badge disabled"
+     href="https://scholar.google.com/scholar?cites={{ doi }}"
+     target="_blank"
+     rel="noopener">
+    <span class="gs-badge-left">
+      <span class="gs-emoji" aria-hidden="true">🎓️</span>
+      <span class="gs-badge-text">Citations</span>
+    </span>
+    <span class="gs-badge-right">
+      {{ site.data.ss_data[doi] | default: 0 }}
+    </span>
+  </a>
+</span>｜
+<span style="font-weight:bold; color:#E34234;">*Journal of the Taiwan Institute of Chemical Engineers* (Q1,IF=5.5)</span>
+
+
+
+- A novel data-driven NOx modelling framework towards peak-shaving utility boilers was proposed.
+- A robust two-step steady-state detection approach was proposed to obtain high-quality steady-state training samples from the operational data.
+- A multimodal residual convolutional auto-encoder was developed to learn the particular data distribution and feature contributions of each operating mode.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2023</div><img src='images/P2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
