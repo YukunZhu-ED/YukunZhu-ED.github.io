@@ -1,0 +1,41 @@
+name: Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main      # 只在 main 分支推送时触发
+
+permissions:
+  contents: read   # 读取仓库文件
+  pages: write     # 部署 Pages
+  id-token: write  # OIDC 身份验证
+
+# 覆盖默认并发设置，选择一种策略：
+concurrency:
+  group: pages-deploy-${{ github.ref }}    # 同一分支共用一把“锁”
+  cancel-in-progress: true                 # ✅ 只保留最新一次部署，其它正在跑的或队列中的都会被取消
+  # cancel-in-progress: false              # 或者改成 false，让它们按顺序一个一个执行
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: npm ci                   # 换成你项目的依赖安装命令
+
+      - name: Build site
+        run: npm run build           # 换成你的构建命令，输出目录一般在 ./build 或 ./public
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: ./build              # 指向你的构建输出目录
+
+      - name: Deploy to Pages
+        uses: actions/deploy-pages@v1
