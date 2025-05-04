@@ -90,10 +90,8 @@ Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
 </span>｜
 <span style="font-weight:bold; color:#E34234;">*ACS OMEGA* (Q2,IF=3.7)</span>
 
-- A novel framework was proposed for the joint optimization of boiler subsystems.
-- Mechanism relationships were integrated into the data-driven characteristic models.
-- Effect of incorporating prior knowledge on modeling and optimization was validated.
-- A trade-off between eliminating gas temperature deviation and reducing NOx was found.
+- [**Feature extraction & fusion**]: Use KICA to remove nonlinear correlations, then fuse independent components with key physics-based variables.
+- [**Multimode segmentation**]: Apply RGMM to identify distinct boiler operating modes and split data accordingly.
 
 </div>
 </div>
