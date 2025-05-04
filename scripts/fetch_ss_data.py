@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import yaml, json, requests
 from time import sleep
 
