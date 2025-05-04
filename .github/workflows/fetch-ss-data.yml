@@ -1,5 +1,5 @@
 # .github/workflows/fetch-ss-data.yml
-name: � Daily SS Data Fetch
+name: Daily SS Data Fetch
 
 # 定时触发和手动触发都支持
 on:
