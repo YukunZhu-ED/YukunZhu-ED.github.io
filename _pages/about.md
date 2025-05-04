@@ -248,7 +248,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 
 - [基于熵权-TOPSIS-DE模型对生产类原材料采购问题的研究](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TL9t8tzu88drtWW781FCijuNN7TbBbry4XcN-FGXrfDoSjCEMp0pv0xFL8aIqyUy7EeCzClaF_cmG8kVTnbfwtF9fulQ2J4c8Jo6qnzHfQH0nBbk9VFhV5gflTnPJJGNtlcPUfVFRdHIH6WzuueLMML-jpDBk6xD4ojzkhJk5lnlQ==&uniplatform=NZKPT&language=CHS)**朱宇坤**, 黎恒, 梁怡恬, 熊昕 <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2023**
 
-- [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS)**朱宇坤**, 喻聪, 张梯华, 刘红娇, 司风琪
+- [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS)**朱宇坤**, 喻聪, 张梯华, 刘红娇, 司风琪<span style="font-weight:bold; color:#E34234;">*热力发电，中国T1核心期刊*</span>, **2022**
 
 
 
