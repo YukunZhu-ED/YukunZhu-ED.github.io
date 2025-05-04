@@ -235,45 +235,11 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy 2023</div><img src='images/P2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-<span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
-  <a href="https://doi.org/10.1016/j.energy.2023.128128" target="_blank" rel="noopener">
-      A novel NOx emission prediction model for multimodal operational utility boilers considering local features and prior knowledge
-  </a>
-</span>
-
-**Yukun Zhu**, Cong Yu📧, Wei Fan, Haiquan Yu, Wei Jin, Shuo Chen, Xia Liu
-{% assign doi = "10.1016/j.energy.2023.128128" %}
-[**Project**](https://doi.org/10.1016/j.energy.2023.128128)｜
-<span class="project-with-badge">
-  <a class="gs-citation-badge disabled"
-     href="https://scholar.google.com/scholar?cites={{ doi }}"
-     target="_blank"
-     rel="noopener">
-    <span class="gs-badge-left">
-      <span class="gs-emoji" aria-hidden="true">🎓️</span>
-      <span class="gs-badge-text">Citations</span>
-    </span>
-    <span class="gs-badge-right">
-      {{ site.data.ss_data[doi] | default: 0 }}
-    </span>
-  </a>
-</span>｜
-<span style="font-weight:bold; color:#E34234;">*Energy* (Q1,IF=9)</span>
-
-
-
-- The monotonous LightGBM model fits better and presents a more stable performance in the single factor variation experiment than the model without prior information.
-- The robust multivariate steady-state algorithm can effectively reduce the impacts of outliers and accurately distinguish the boundaries between the steady-state interval and the non-steady-state interval
-
-</div>
-</div>
-
 - [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054), **Yukun Zhu**, Yanxia Peng, Cong Yu, <span style="font-weight:bold; color:#E34234;">IET Image Processing (Q3, IF = 2)</span>, **2025**
 - [Quick Combustion Optimization for Utility Boilers Using a Novel Adaptive Hybrid Case Library](https://doi.org/10.3390/pr13020469), Cong Yu, Shuo Chen, Haiquan Yu, **Yukun Zhu**, Qiang Wang, Guangting Liao, Ling Shi, <span style="font-weight:bold; color:#E34234;">Processes (Q2, IF = 2.8)</span>, **2025**
 - [Dynamic NOx Emission Modeling in a Utility Circulating Fluidized Bed Boiler Considering Denoising and Multi-Frequency Domain Information](https://doi.org/10.3390/en18040790), Qianyu Li, Guanglong Wang, Xian Li, Qing Bao, Wei Li, **Yukun Zhu**, Cong Yu, Huan Ma, <span style="font-weight:bold; color:#E34234;">Energies (Q3, IF = 3)</span>, **2025**
-- [A Novel End-to-end Framework for A-share Stock Market Portfolio Optimization Considering Risk Measure and Feature Exposure](https://doi.org/10.1145/3698300.3698317), Nanxi Xu, Haotian Xiao, **Yukun Zhu**, Xiaochi Chen, Yixuan Li, Xiaoli Hu <span style="font-weight:bold; color:#E34234;">ICBDT (Conference)</span>, **2025**
+- [A Novel End-to-end Framework for A-share Stock Market Portfolio Optimization Considering Risk Measure and Feature Exposure](https://doi.org/10.1145/3698300.3698317), Nanxi Xu, Haotian Xiao, **Yukun Zhu**, Xiaochi Chen, Yixuan Li, Xiaoli Hu <span style="font-weight:bold; color:#E34234;">ICBDT (Conference)</span>, **2024**
+- [基于BO-WT-VMD组合模型的钢丝绳的损伤信号降噪方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLR7oJIP8Kmnjfkwn535lXocem97IdO397VrEP1BrAr2McElKl5JY_H5X35J4XlxPf1RY4CqrR1JUhomYm55p9a1vXLj11xHhU3CEPCBnW1VtMGByhKU6llbRKQCOOiqxmzAs6uL_JQTTL4q-PSY0wvWjSyVKWFe30zXyGaWGM47A==&uniplatform=NZKPT&language=CHS), **朱宇坤**，黎恒，吴文俊，柯圆圆 <span style="font-weight:bold; color:#E34234;">江汉大学学报(自然科学版)</span>, **2024**
 
 
 
