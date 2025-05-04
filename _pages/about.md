@@ -87,7 +87,7 @@ Rentian Yu, Haotian Xiao, **Yukun Zhu**, Gongqiu Zhang📧
     </span>
   </a>
 </span>｜
-<span style="font-weight:bold; color:#E34234;">*Finance Research Letters* (Qq,IF=7.4)</span>
+<span style="font-weight:bold; color:#E34234;">*Finance Research Letters* (Q1,IF=7.4)</span>
 
 - We integrate GARCH information with a multi-scale network for volatility prediction.
 - The GENSHIN outperforms other deep learning models for Chinese volatility indices.
