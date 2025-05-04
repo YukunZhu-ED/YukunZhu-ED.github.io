@@ -235,14 +235,14 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 </div>
 </div>
 
-- [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054), **Yukun Zhu**, Yanxia Peng, Cong Yu, <span style="font-weight:bold; color:#E34234;">IET Image Processing (Q3, IF = 2)</span>, **2025**
+- [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054), **Yukun Zhu**, Yanxia Peng, Cong Yu, <span style="font-weight:bold; color:#E34234;">*IET Image Processing (Q3, IF = 2)*</span>, **2025**
 
 - [Quick Combustion Optimization for Utility Boilers Using a Novel Adaptive Hybrid Case Library](https://doi.org/10.3390/pr13020469), Cong Yu, Shuo Chen, Haiquan Yu, **Yukun Zhu**, Qiang Wang, Guangting Liao, Ling Shi, <span style="font-weight:bold; color:#E34234;">Processes (Q2, IF = 2.8)</span>, **2025**
-- [Dynamic NOx Emission Modeling in a Utility Circulating Fluidized Bed Boiler Considering Denoising and Multi-Frequency Domain Information](https://doi.org/10.3390/en18040790), Qianyu Li, Guanglong Wang, Xian Li, Qing Bao, Wei Li, **Yukun Zhu**, Cong Yu, Huan Ma, <span style="font-weight:bold; color:#E34234;">Energies (Q3, IF = 3)</span>, **2025**
+- [Dynamic NOx Emission Modeling in a Utility Circulating Fluidized Bed Boiler Considering Denoising and Multi-Frequency Domain Information](https://doi.org/10.3390/en18040790), Qianyu Li, Guanglong Wang, Xian Li, Qing Bao, Wei Li, **Yukun Zhu**, Cong Yu, Huan Ma, <span style="font-weight:bold; color:#E34234;">*Energies (Q3, IF = 3)*</span>, **2025**
 
-- [A Novel End-to-end Framework for A-share Stock Market Portfolio Optimization Considering Risk Measure and Feature Exposure](https://doi.org/10.1145/3698300.3698317), Nanxi Xu, Haotian Xiao, **Yukun Zhu**, Xiaochi Chen, Yixuan Li, Xiaoli Hu <span style="font-weight:bold; color:#E34234;">ICBDT (Conference)</span>, **2024**
+- [A Novel End-to-end Framework for A-share Stock Market Portfolio Optimization Considering Risk Measure and Feature Exposure](https://doi.org/10.1145/3698300.3698317), Nanxi Xu, Haotian Xiao, **Yukun Zhu**, Xiaochi Chen, Yixuan Li, Xiaoli Hu <span style="font-weight:bold; color:#E34234;">*ICBDT (Conference)*</span>, **2024**
 
-- [基于BO-WT-VMD组合模型的钢丝绳的损伤信号降噪方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLR7oJIP8Kmnjfkwn535lXocem97IdO397VrEP1BrAr2McElKl5JY_H5X35J4XlxPf1RY4CqrR1JUhomYm55p9a1vXLj11xHhU3CEPCBnW1VtMGByhKU6llbRKQCOOiqxmzAs6uL_JQTTL4q-PSY0wvWjSyVKWFe30zXyGaWGM47A==&uniplatform=NZKPT&language=CHS), **朱宇坤**，黎恒，吴文俊，柯圆圆 <span style="font-weight:bold; color:#E34234;">江汉大学学报(自然科学版)</span>, **2024**
+- [基于BO-WT-VMD组合模型的钢丝绳的损伤信号降噪方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLR7oJIP8Kmnjfkwn535lXocem97IdO397VrEP1BrAr2McElKl5JY_H5X35J4XlxPf1RY4CqrR1JUhomYm55p9a1vXLj11xHhU3CEPCBnW1VtMGByhKU6llbRKQCOOiqxmzAs6uL_JQTTL4q-PSY0wvWjSyVKWFe30zXyGaWGM47A==&uniplatform=NZKPT&language=CHS), **朱宇坤**，黎恒，吴文俊，柯圆圆 <span style="font-weight:bold; color:#E34234;">*江汉大学学报(自然科学版)*</span>, **2024**
 
 - [基于可解释性的多模型融合的古代玻璃成分分析及亚分类方法](https://kns.cnki.net/kcms2/article/abstract?v=laPQaQ7a6TLMUbW0k_U8nda6dU4fmSyRTCg6rk2jsGwz6GGiJ1UxDQpVvmHbEQKzcV-jKegukWtolZPE8-skXxgM2ZxZuH49qSsCQkxEq6qD-eeDRBXHJbo69E-ITxx1PQHXTY6mWq7TEX5u4UMDPUB1rHCMuhXCBDZKeuJSyumCOi31TaRhQQ==&uniplatform=NZKPT&language=CHS)
 
