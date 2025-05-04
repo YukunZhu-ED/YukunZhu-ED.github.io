@@ -258,6 +258,8 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 
 - [A method for predicting the deactivation rate of SCR denitration catalyst considering coupled wear deformation and heterogeneous reaction](https://patents.google.com/patent/CN115458084A/zh?oq=CN115458084A), Cong Yu, Haojie Cui, Jing Cheng, Zuyun Liu, **Yukun Zhu**.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent, CN115458084A*</span>, **2022**)
 
+- Power Plant SCR Denitration System High-Capacity Sample Mining and Catalyst Life Prediction Software V1.0, Cong Yu, Ziliang Wang, **Yukun Zhu**, Tihua Zhang, Shuo Chen.(<span style="font-weight:bold; color:#E34234;">*Software*</span>, **2022**)
+
 # 🎖 Research Projects
 - 
 - 
