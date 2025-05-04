@@ -63,17 +63,16 @@ redirect_from:
 - *2014.06*: &nbsp;🥳🥳 小学奥赛新希望杯，老新希望杯，华罗庚杯，创新杯，世界奥林匹克，新星杯，新苗杯，IMAS,学用杯等金满贯
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Finance Research Letters 2025</div><img src='images/P4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRL 2025</div><img src='images/P5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
-  <a href="https://doi.org/10.1021/acsomega.4c05009" target="_blank" rel="noopener">
-    Forecast of NOx Emissions for a 660MW Coal-Fired Boiler with Multilayered Gradient Boosting Decision Tree Considering Multiple Operating Modes
+  <a href="https://doi.org/10.1016/j.frl.2025.107196" target="_blank" rel="noopener">
+    Does multi-scale GARCH information enhance volatility prediction?
   </a>
 </span>
-
-Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
-{% assign doi = "10.1021/acsomega.4c05009" %}
-[**Project**](https://doi.org/10.1021/acsomega.4c05009)｜
+Rentian Yu, Haotian Xiao, **Yukun Zhu**, Gongqiu Zhang📧
+{% assign doi = "10.1016/j.frl.2025.107196" %}
+[**Project**](https://doi.org/10.1016/j.frl.2025.107196)｜
 <span class="project-with-badge">
   <a class="gs-citation-badge disabled"
      href="https://scholar.google.com/scholar?cites={{ doi }}"
@@ -88,10 +87,11 @@ Ziwei Wang, Yongzan Zhou, **Yukun Zhu**, Haiquan Yu, Wei Fan📧
     </span>
   </a>
 </span>｜
-<span style="font-weight:bold; color:#E34234;">*ACS OMEGA* (Q2,IF=3.7)</span>
+<span style="font-weight:bold; color:#E34234;">*Finance Research Letters* (Qq,IF=7.4)</span>
 
-- **Feature extraction & fusion**: Use KICA to remove nonlinear correlations, then fuse independent components with key physics-based variables.
-- **Multimode segmentation**: Apply RGMM to identify distinct boiler operating modes and split data accordingly.
+- We integrate GARCH information with a multi-scale network for volatility prediction.
+- The GENSHIN outperforms other deep learning models for Chinese volatility indices.
+- The results highlight the multi-scale information in improving volatility prediction.
 
 </div>
 </div>
