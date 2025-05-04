@@ -235,7 +235,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 </div>
 </div>
 
-- [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054),**Yukun Zhu**,Yanxia Peng,Cong Yu,<span style="font-weight:bold; color:#E34234;">*IET Image Processing* (Q3,IF=2)</span>, **2025**
+- [Multi-Shadow Scenarios Tennis Ball Detection by an Improved RTMdet-Light Model](https://doi.org/10.1049/ipr2.70054),**Yukun Zhu**, Yanxia Peng, Cong Yu, <span style="font-weight:bold; color:#E34234;">*IET Image Processing* (Q3,IF=2)</span>, **2025**
 - 
 
 
