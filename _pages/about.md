@@ -264,6 +264,10 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 - 企业项目（湖北中烟工业有限责任公司武汉卷烟厂）：基于二维码的卷烟质量追溯能力提升的研究与应用, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.10，在研
 - 东南大学外委项目：循环流化床锅炉燃烧过程数值模拟平台开发及试验测试分析，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.12，在研
 - 企业项目（湖北凯龙化工集团股份有限公司）：工业互联网+民用爆炸物品生产及仓储智能化安全监控系统，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2023.06-2026.06，结题<span style="font-weight:bold; color:#E34234;">*(工信部鉴定, 国际领先水平)*</span>
+- 工业烟尘污染控制湖北省重点实验室开放课题（重点项目）：物理启发机器学习助力深调燃煤锅炉氮氧化物迁移行为预测与调控，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2023.09-2025.08，结题；
+- 湖北省环保型汽车油管智能制造企校联合创新中心基金：基于层析成像的高温炉精准光学测温技术及其数字化平台研发，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2022.8-2025.12，结题；
+-  国家自然科学基金：煤粉富氧燃烧锅炉火焰稳定性与蒸发受热管热力特性的耦合机制研究，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2021.1-2023.12，结题；
+-  江汉大学高层次人才科研项目：数据与机理融合驱动的燃煤电站脱硝催化剂寿命预测模型研究，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2021.1-2023.12，结题；
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
