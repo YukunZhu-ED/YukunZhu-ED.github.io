@@ -63,7 +63,7 @@ redirect_from:
 - *2014.06*: &nbsp;🥳🥳 小学奥赛新希望杯，老新希望杯，华罗庚杯，创新杯，世界奥林匹克，新星杯，新苗杯，IMAS,学用杯等金满贯
 
 # 📝 Publications 
-### 📄 Papers and Conferences
+## 📄 Papers and Conferences
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">FRL 2025</div><img src='images/P5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span style="font-size:1.1rem; font-weight:600; line-height:1.3;">
@@ -251,8 +251,8 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 
 - [基于大容量样本挖掘及贝叶斯堆栈泛化集成算法的电站锅炉NOx稳态建模](http://kns.cnki.net/kcms2/article/abstractv=laPQaQ7a6TKeapZz_FqlIie1OfkwCODwsHp_8Z_qVju3L2H0BrVvTznO7XZeWTeqwQyiEGnfqSxqO1nzgV5GxmWF1NVs7_GJVshWzphA-XXiyEg5FuiKpMRkxBD6xb7FSsJXv53FE5ZhfFUVvviYnLczvAimFvesEyS8vjxIWXdcDtHnhDYQ6g==&uniplatform=NZKPT&language=CHS), **朱宇坤**, 喻聪, 张梯华, 刘红娇, 司风琪, <span style="font-weight:bold; color:#E34234;">*热力发电，中国T1核心期刊*</span>, **2022**
 
-### 🧑‍🔬 Patients and Softwares
-- 
+## 🧑‍🔬 Patents and Softwares
+- [A method for online diagnosis of combustion performance in power plant boilers considering mode migration and subspace prior knowledge](https://patents.google.com/patent/CN115495976A/zh?oq=CN115495976A),Cong Yu, **Yukun Zhu**, Shuo Chen, Tihua Zhang.(<span style="font-weight:bold; color:#E34234;">*Chinese Patent*</span>, **2022**)
 - 
 
 # 🎖 Research Projects
