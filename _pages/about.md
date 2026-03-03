@@ -53,6 +53,7 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🥳🥳 Our new journal article, <b style="color: #000000;">*A novel VMD‐LassoNet‐iTransformer framework with enhanced feature fusion for dynamic NOx forecasting in flexible utility boilers*</b>, Accepted by <span style="font-weight:bold; color:#E34234;">*The Canadian journal of chemical engineering* (Q2,IF=2.5)</span>.
 - *2025.03*: &nbsp;👏👏Our new journal article, <b style="color: #000000;">*Does multi-scale GARCH information enhance volatility prediction?*</b>, Accepted by <span style="font-weight:bold; color:#E34234;">*Finance Research Letters* (Q1,IF=7.4)</span>.
 - *2024.12*: &nbsp;🎉🎉与湖北凯龙化工集团股份有限公司合作开发的<b style="color: #000000;">工业互联网+民用爆炸物品生产及仓储智能化安全监控系统</b>被中国工信部鉴定为<span style="font-weight:bold; color:#E34234;">国际先进水平</span>.
 - *2024.06*: &nbsp;🎊🎊 <a href="https://xsc.jhun.edu.cn/14/3c/c8300a201788/pagem.htm" target="_blank" rel="noopener">"星光不问赶路人,时光不负有心人"</a>;<a href="https://www.jhun.edu.cn/ac/4d/c208a175181/page.htm" target="_blank" rel="noopener">“聚青春之火,燃时代之光”</a>;<a href="http://hb.people.com.cn/n2/2024/0807/c192237-40936599.html" target="_blank" rel="noopener">“一站式”智工学区护航大学生成长成才"</a>;<a href="http://news.cnhubei.com/content/2024-06/25/content_18090027.html" target="_blank" rel="noopener">"挺膺担当新征程，逐梦扬帆再起航"</a>;<a href="https://jjxy.jhun.edu.cn/b4/f1/c1968a177393/pagem.htm" target="_blank" rel="noopener">"耐得住寂寞，才能厚积薄发"</a>相关事迹被学校媒体机构宣传.
@@ -263,6 +264,7 @@ Shuo Chen, Cong Yu📧, **Yukun Zhu**,Wei Fan, Haiquan Yu, Tihua Zhang
 - Power Plant SCR Denitration System High-Capacity Sample Mining and Catalyst Life Prediction Software V1.0, Cong Yu, Ziliang Wang, **Yukun Zhu**, Tihua Zhang, Shuo Chen.(<span style="font-weight:bold; color:#E34234;">*Software*</span>, **2022**)
 
 # 🎖 Research Projects
+- 企业项目（东莞市朝飞五金制品有限公司）：穿戴产品电镀件智能检测与分拣系统研发（NO. ZH2025-171）, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2025.12-2027.02，在研；
 - 湖北省科技计划项目（基础研究类平台专项）：烟气脱硫碳催化氧化机理及关键技术研究, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2025.08-2027.08，在研；
 - 企业项目（湖北中烟工业有限责任公司武汉卷烟厂）：基于二维码的卷烟质量追溯能力提升的研究与应用, <span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.10，在研
 - 东南大学外委项目：循环流化床锅炉燃烧过程数值模拟平台开发及试验测试分析，<span style="font-weight:bold; color:#E34234;">*核心成员*</span>，2024.08-2025.12，在研
